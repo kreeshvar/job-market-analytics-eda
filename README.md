@@ -1,6 +1,13 @@
 # job-market-analytics-eda
 End-to-end exploratory data analytics project analyzing job market trends (2023–2024). Built using Python (Pandas ETL), SQL Server (stored procedures, views, data modeling) and Power BI for market insights on high-paying job postings.
 
+## 📊 Power BI Dashboard
+
+The Power BI (.pbix) file is available via GitHub Releases to avoid repository size limits.
+
+🔽 Download here:
+https://github.com/kreeshvar/job-market-analytics-eda/releases/tag/v1.0
+
 # Job Market Analytics (2023–2024)
 
 ## 📌 Project Overview
